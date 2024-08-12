@@ -1,4 +1,7 @@
-# Image to Text to Story App with Gradio
+<h1 align="center"><strong>Image to Text to Story App with Gradio</strong></h1>
+
+<br>
+
 
 ![Gradio Interface](Interface.PNG)
 
